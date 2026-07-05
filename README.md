@@ -20,8 +20,11 @@ decisions are the same.
   data preparation, probability calibration, SHAP explainability, a fairness audit
   across demographic groups, and a FastAPI service with tests and CI.
 
-More projects being added — clinical-text NLP (classic ML vs a local Llama),
-experimentation / causal inference, and time series.
+- **[clinical-note-classifier](https://github.com/jacobByron-McKay/clinical-note-classifier)**
+  — classic ML vs a local Llama on clinical-text classification: a
+  numbers-backed look at when a trained model beats an LLM, and when it doesn't.
+
+More projects being added — experimentation / causal inference, and time series.
 
 ### Toolbox
 
