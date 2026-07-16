@@ -55,7 +55,7 @@ decisions are the same.
 R (tidymodels, Shiny) · SQL & database design · Power BI (DAX, RLS) · Python
 (pandas, scikit-learn) · machine learning · calibration & SHAP explainability ·
 causal inference · time-series forecasting · NLP & text classification · GenAI /
-LLMs (local Llama, RAG, vector databases, evaluation) · dbt / analytics engineering
+LLMs (local Llama, RAG, LangChain, vector databases, evaluation) · dbt / analytics engineering
 · equity-aware analytics
 
 [LinkedIn](https://www.linkedin.com/in/jacob-byron-mckay-286319ab/)
