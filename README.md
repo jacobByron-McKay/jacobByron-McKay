@@ -45,7 +45,10 @@ decisions are the same.
   — analytics engineering: a tested, documented dbt + DuckDB pipeline turning raw
   health records into layered staging and mart models with data-quality tests.
 
-A Power BI case study is next on the list.
+- **[health-dashboard-powerbi](https://github.com/jacobByron-McKay/health-dashboard-powerbi)**
+  — an interactive Power BI dashboard on top of those dbt marts: a star-schema model,
+  DAX measures, and coordinated multi-page report, shipped as a text-based project
+  (`.pbip`) alongside the built `.pbix`.
 
 ### Toolbox
 
